@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: fastpage로 깃허브 블로그 만드는 방법
 categories: [github vlog]
-title: 초간단 깃허브 블로그 만들기💫
+title: # github vlog 초간단 깃허브 블로그 만들기💫
 ---
 
 
@@ -34,6 +34,7 @@ title: 초간단 깃허브 블로그 만들기💫
      - SSH-Keygen Oline : RSA | RSA Key Size : 4096 체크를 하면 자동으로 PrivateKey와 Public key가 발행된다. <br/>우선 `PrivateKey` 내용을 전부 복사 후,<br/>
       `Before you merge this PR` 2번 내용에 `this link` 링크를 클릭 후 오른쪽 상단에 `New repository secret`을 클릭 후, 시크릿 키 `Name`을 입력하고 (ex. SSH_DEPLOY_KEY) `Value`에 복사한 `PrivateKey`를 붙여 넣고 `Add secret`으로 등록한다.
      - `Before you merge this PR` 3번 내용에 `this link` 링크를 클릭 후 이번엔 `Public key` 내용을 전부 복사하고 `Add deploy key`를 눌러 원하는 블로그 타이틀을 `Title`에 적고, `Key`에  `Public key`내용을 붙여넣고 ✅Allow write access 체크 후 `Add key`로 등록한다.<br/>
+     
 4. 다시 해당 github 저장소로 돌아가서 `Pull requests` 탭에 `Initial Setup` 클릭 후 스크롤을 내려 `Merge pull request` 클릭 후-> `Confirm merge` 를 눌러주면 끝!<br/>
    해당 요청이 완료될 때까지 2분정도 소요가 된다. 처리 상태를 보고 싶다면 상단에 `Actions`탭에서 진행사항 확인이 가능하다.
      
