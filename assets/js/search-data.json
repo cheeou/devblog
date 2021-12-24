@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Shell이란?",
-            "content": "🌪 shell이란? . shell은 사용자의 명령어를 해석하고 운영체제가 알아들을 수 있게 사용자와 커널을 이어주는 다리역할이다. 커널은 사용자가 입력한 셀에 내용을 하드웨어에 직접적으로 명령을 내려준다. .",
+            "content": "🌪 shell이란? . shell은 사용자의 명령어를 해석하고 운영체제가 알아들을 수 있게 사용자와 커널을 이어주는 다리역할이다. 커널은 사용자가 입력한 셀에 내용을 하드웨어에 직접적으로 명령을 내려준다.&lt;/p&gt; .",
             "url": "https://cheeou.github.io/devblog/shell/2021/12/24/shell.html",
             "relUrl": "/shell/2021/12/24/shell.html",
             "date": " • Dec 24, 2021"
