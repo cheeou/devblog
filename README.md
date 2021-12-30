@@ -5,12 +5,12 @@ https://cheeou.github.io/devblog/
 
 # .md file template
 
-/---
-/toc: false
-/layout: post
-/description: 
-/categories: 
-/title: 
-/---
+/---<br/>
+/toc: false<br/>
+/layout: post<br/>
+/description: <br/>
+/categories: <br/>
+/title: <br/>
+/---<br/>
 
 
