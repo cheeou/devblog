@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: fastpage로 깃허브 블로그 만드는 방법
 categories: [github blog]
-title:github blog| 초간단 깃허브 블로그 만들기
+title: github blog| 초간단 깃허브 블로그 만들기
 ---
 
 
