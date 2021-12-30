@@ -6,11 +6,11 @@ https://cheeou.github.io/devblog/
 # .md file template
 
 /---
-toc: false
-layout: post
-description: 
-categories: 
-title: 
+/toc: false
+/layout: post
+/description: 
+/categories: 
+/title: 
 /---
 
 
