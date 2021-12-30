@@ -3,6 +3,14 @@
 
 https://cheeou.github.io/devblog/
 
-_powered by [fastpages](https://github.com/fastai/fastpages)_
+# .md file template
+
+---
+toc: false
+layout: post
+description: 
+categories: [JavaScript]
+title: JS-day1| 핵심개념
+---
 
 
